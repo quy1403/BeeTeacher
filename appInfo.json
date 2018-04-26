@@ -1,4 +1,5 @@
 {
-	"iosVer": 1,
+	"iosVer": 1.4,
+	"androidVer": 3, 
 	"allowUpdate": false
 }
